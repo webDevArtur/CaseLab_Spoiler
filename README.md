@@ -9,6 +9,9 @@ A simple web application to spoiler information, created using HTML, CSS and Jav
 # Ссылка на проект
 https://webdevartur.github.io/CaseLab_Spoiler/
 
+![Uploading image.png…]()
+
+
 # Особенности
 
 - Интуитивно понятный интерфейс, удобный для использования.
